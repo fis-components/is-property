@@ -1,0 +1,10 @@
+{
+    "name": "is-property",
+    "description": "Tests if a JSON property can be accessed using . syntax",
+    "repos": "https://github.com/mikolalysenko/is-property.git",
+    "main": "is-property.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
